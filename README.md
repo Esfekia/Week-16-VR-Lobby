@@ -17,4 +17,4 @@ Some screenshots of the current stage:
 
 ![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Setting2.png?raw=true?raw=true "Title")
 
-![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Setting4.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Setting5.png?raw=true?raw=true "Title")
