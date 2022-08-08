@@ -1,3 +1,5 @@
+**Disclaimer: The project uses paid assets from CGAxis.com (PBR Textures( as well as https://syntystore.com/ (one VFX light effect and glass material)**
+
 # Week 16 VR Lobby
 
 Dev Diary Day 2: 
