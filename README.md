@@ -18,3 +18,7 @@ Some screenshots of the current stage:
 ![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Setting2.png?raw=true?raw=true "Title")
 
 ![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Setting5.png?raw=true?raw=true "Title")
+
+Dev Diary Dev 5: With some texture changes, metallic/smoothness adjustment and addition of 8 emissive material light sources around the walls, I was able to improve the look of the project in terms of lighting:
+
+![Alt text](https://github.com/Esfekia/Week-16-VR-Lobby/blob/main/Lighting%20First%20Person%20View.png?raw=true?raw=true "Title")
